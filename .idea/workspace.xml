@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b10a935-4d1e-443d-9dcf-34870108375b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bible.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/carouselCreated.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/carouselCreated.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/bootstrap.css" afterPath="$PROJECT_DIR$/css/bootstrap.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/search.css" afterPath="$PROJECT_DIR$/css/search.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -26,8 +28,8 @@
       <file leaf-file-name="bootstrap.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="4383" column="8" lean-forward="true" selection-start-line="4383" selection-start-column="0" selection-end-line="4384" selection-end-column="0" />
+            <state relative-caret-position="68">
+              <caret line="2604" column="32" lean-forward="false" selection-start-line="2604" selection-start-column="32" selection-end-line="2604" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -36,8 +38,28 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="62" column="83" lean-forward="false" selection-start-line="62" selection-start-column="83" selection-end-line="62" selection-end-column="83" />
+            <state relative-caret-position="51">
+              <caret line="122" column="6" lean-forward="true" selection-start-line="122" selection-start-column="6" selection-end-line="122" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="carouselCreated.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/carouselCreated.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="106">
+              <caret line="12" column="19" lean-forward="false" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="carouselCreated.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/carouselCreated.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -84,6 +106,9 @@
       <find>type=&quot;te</find>
       <find>navbar-right</find>
       <find>navbar-form</find>
+      <find>myC</find>
+      <find>carousel</find>
+      <find>carousel-inner</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -94,9 +119,10 @@
       <list>
         <option value="$PROJECT_DIR$/js/search.js" />
         <option value="$PROJECT_DIR$/css/carousel.css" />
-        <option value="$PROJECT_DIR$/css/bootstrap.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/search.css" />
+        <option value="$PROJECT_DIR$/css/bootstrap.css" />
+        <option value="$PROJECT_DIR$/css/carouselCreated.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -185,8 +211,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\eucons\Documents\eugenieProjects.github.io\img" />
+      <recent name="C:\Users\eucons\Documents\eugenieProjects.github.io\js" />
       <recent name="C:\Users\eucons\Documents\eugenieProjects.github.io\css" />
+      <recent name="C:\Users\eucons\Documents\eugenieProjects.github.io\img" />
       <recent name="C:\Users\eucons\Documents\eugenieProjects.github.io" />
     </key>
   </component>
@@ -255,12 +282,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1485878198964</updated>
-      <workItem from="1485878201535" duration="9920000" />
+      <workItem from="1485878201535" duration="13166000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9920000" />
+    <option name="totallyTimeSpent" value="13166000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="20" width="1346" height="688" extended-state="0" />
@@ -319,14 +346,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="4383" column="8" lean-forward="true" selection-start-line="4383" selection-start-column="0" selection-end-line="4384" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/carousel.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -343,10 +362,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/js/carouselCreated.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="2604" column="32" lean-forward="false" selection-start-line="2604" selection-start-column="32" selection-end-line="2604" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/carouselCreated.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="12" column="19" lean-forward="false" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="62" column="83" lean-forward="false" selection-start-line="62" selection-start-column="83" selection-end-line="62" selection-end-column="83" />
+        <state relative-caret-position="51">
+          <caret line="122" column="6" lean-forward="true" selection-start-line="122" selection-start-column="6" selection-end-line="122" selection-end-column="6" />
           <folding />
         </state>
       </provider>
